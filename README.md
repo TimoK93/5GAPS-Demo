@@ -1,5 +1,4 @@
 [![Pylint](https://github.com/TimoK93/5GAPS-Demo/actions/workflows/pylint.yml/badge.svg)](https://github.com/TimoK93/5GAPS-Demo/actions/workflows/pylint.yml)
-[![Python package](https://github.com/TimoK93/5GAPS-Demo/actions/workflows/python-package.yml/badge.svg)](https://github.com/TimoK93/5GAPS-Demo/actions/workflows/python-package.yml)
 
 # 5GAPS-Demo
 
